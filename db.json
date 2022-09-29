@@ -1,0 +1,76 @@
+{
+  "partner": [
+    {
+      "id": 1,
+      "title": "Directo"
+    },
+    {
+      "id": 2,
+      "title": "Obligatorio"
+    },
+    {
+      "id": 3,
+      "title": "Convenio"
+    },
+    {
+      "id": 4,
+      "title": "Monotributo"
+    }
+  ],
+  "planes": [
+    {
+      "id": 1,
+      "title": "6030"
+    },
+    {
+      "id": 2,
+      "title": "110"
+    },
+    {
+      "id": 3,
+      "title": "210"
+    },
+    {
+      "id": 4,
+      "title": "310"
+    },
+    {
+      "id": 5,
+      "title": "410"
+    },
+    {
+      "id": 6,
+      "title": "450"
+    },
+    {
+      "id": 7,
+      "title": "510"
+    },
+    {
+      "id": 8,
+      "title": "Todos"
+    }
+  ],
+  "filiales": [
+    {
+      "id": 1,
+      "title": "filial 1"
+    },
+    {
+      "id": 2,
+      "title": "filial 2"
+    },
+    {
+      "id": 3,
+      "title": "filial 3"
+    },
+    {
+      "id": 4,
+      "title": "filial 4"
+    },
+    {
+      "id": 5,
+      "title": "filial 5"
+    }
+  ]
+}
