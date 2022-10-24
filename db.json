@@ -1,72 +1,70 @@
 {
-  "partner": [
-    {
-      "id": 1,
-      "title": "Directo"
-    },
-    {
-      "id": 2,
-      "title": "Obligatorio"
-    },
-    {
-      "id": 3,
-      "title": "Convenio"
-    },
-    {
-      "id": 4,
-      "title": "Monotributo"
-    }
-  ],
-  "planes": [
-    {
-      "id": 1,
-      "title": "6030"
-    },
-    {
-      "id": 2,
-      "title": "110"
-    },
-    {
-      "id": 3,
-      "title": "210"
-    },
-    {
-      "id": 4,
-      "title": "310"
-    },
-    {
-      "id": 5,
-      "title": "410"
-    },
-    {
-      "id": 6,
-      "title": "450"
-    },
-    {
-      "id": 7,
-      "title": "510"
-    }
-  ],
-  "filiales": [
-    {
-      "id": 1,
-      "title": "filial 1"
-    },
-    {
-      "id": 2,
-      "title": "filial 2"
-    },
-    {
-      "id": 3,
-      "title": "filial 3"
-    },
-    {
-      "id": 4,
-      "title": "filial 4"
-    },
-    {
-      "id": 5,
-      "title": "filial 5"
-    }
-  ]
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "uri": "https://my356089.crm.ondemand.com/sap/c4c/odata/v1/c4codataapi/ContractprefixPlan_KUTCollection('1')",
+          "type": "c4codata.CodeList"
+        },
+        "Code": "1",
+        "Description": "Planes Regionales"
+      },
+      {
+        "__metadata": {
+          "uri": "https://my356089.crm.ondemand.com/sap/c4c/odata/v1/c4codataapi/ContractprefixPlan_KUTCollection('2')",
+          "type": "c4codata.CodeList"
+        },
+        "Code": "2",
+        "Description": "Planes Binarios"
+      },
+      {
+        "__metadata": {
+          "uri": "https://my356089.crm.ondemand.com/sap/c4c/odata/v1/c4codataapi/ContractprefixPlan_KUTCollection('3')",
+          "type": "c4codata.CodeList"
+        },
+        "Code": "3",
+        "Description": "Plan CI"
+      },
+      {
+        "__metadata": {
+          "uri": "https://my356089.crm.ondemand.com/sap/c4c/odata/v1/c4codataapi/ContractprefixPlan_KUTCollection('4')",
+          "type": "c4codata.CodeList"
+        },
+        "Code": "4",
+        "Description": "Planes Capitados"
+      },
+      {
+        "__metadata": {
+          "uri": "https://my356089.crm.ondemand.com/sap/c4c/odata/v1/c4codataapi/ContractprefixPlan_KUTCollection('5')",
+          "type": "c4codata.CodeList"
+        },
+        "Code": "5",
+        "Description": "Planes Especiales"
+      },
+      {
+        "__metadata": {
+          "uri": "https://my356089.crm.ondemand.com/sap/c4c/odata/v1/c4codataapi/ContractprefixPlan_KUTCollection('6')",
+          "type": "c4codata.CodeList"
+        },
+        "Code": "6",
+        "Description": "Planes Salud"
+      },
+      {
+        "__metadata": {
+          "uri": "https://my356089.crm.ondemand.com/sap/c4c/odata/v1/c4codataapi/ContractprefixPlan_KUTCollection('7')",
+          "type": "c4codata.CodeList"
+        },
+        "Code": "7",
+        "Description": "Planes con Packs"
+      },
+      {
+        "__metadata": {
+          "uri": "https://my356089.crm.ondemand.com/sap/c4c/odata/v1/c4codataapi/ContractprefixPlan_KUTCollection('8')",
+          "type": "c4codata.CodeList"
+        },
+        "Code": "8",
+        "Description": "Planes Corporativos"
+      }
+    ]
+  }
 }
