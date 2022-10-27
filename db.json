@@ -1,10 +1,5 @@
 {
   "callId": "cf799ae574974454bbecd1cb1003a1db",
   "errorCode": 0,
-  "apiVersion": 2,
-  "statusCode": 200,
-  "statusReason": "OK",
-  "time": "2022-10-27T19:10:36.605Z",
-  "objectsCount": 1,
-  "totalCount": 1
+  "apiVersion": 2
 }
